@@ -3,7 +3,7 @@
 resistorColors = ["Black", "Brown", "Red", "Orange", "Yellow", "Green", "Blue", "Violet", "Grey", "White"]
 allColors = ["Silver", "Gold","Black", "Brown", "Red", "Orange", "Yellow", "Green", "Blue", "Violet", "Grey", "White"]
 
-suffixes = ["m", "Null", "k", "M"]
+prefixes = ["m", "Null", "k", "M"]
             #-3    0      3    6 
 
 resistance = input("What's the resistance? ")
